@@ -1,0 +1,8 @@
+{
+  "name": "agency-poem-01-bot",
+  "version": "1.0.0",
+  "description": "Entry for make.fun agency-poem-01 bounty",
+  "type": "module",
+  "main": "main.ts",
+  "license": "MIT"
+}
